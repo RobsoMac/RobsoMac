@@ -6,7 +6,7 @@
   - Data-driven process improvement in supply chain & logistics  
   - AWS Cloud & scripting for operational efficiency  
 - 💞️ **I’m looking to collaborate on:** Open-source automation tools, logistics tech solutions, and cloud-based optimizations.  
-- 📫 **How to reach me:** [LinkedIn](your-link-here) | [GitHub](https://github.com/RobsoMac)  
+- 📫 **How to reach me:** [LinkedIn](www.linkedin.com/in/macrobson) | [GitHub](https://github.com/RobsoMac)  
 - ⚡ **Fun fact:** I’m fluent in Portuguese and always up for learning something new!  
 
 ---
