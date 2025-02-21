@@ -14,7 +14,7 @@
 ### 🚀 Featured Projects  
 🔹 **[Tampermonkey Automation](https://github.com/RobsoMac/Tampermonkey-Automation)** - Automating AWS Argo clicks  
 🔹 **[Mozila Add-On](https://github.com/RobsoMac/Mozila-Add-On)** - Automating AWS Printers to Send Print Jobs directly  
-🔹 **[Python Projects](https://github.com/RobsoMac/Python-Projectsink)** - Streamlining workflow management and automations 
+🔹 **[Python Projects](https://github.com/RobsoMac/Python-Projectsink)** - Streamlining workflow management and automations
 🔹 **[Minitab Data Analysis](https://github.com/your-repo-link)** - Probability & statistics in logistics  
 
 ---
